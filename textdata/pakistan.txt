@@ -1,1 +1,7 @@
-
+<option<Select</option>
+<option>Baluchistan</option>
+<option>Khyber Pakhtunkhwa</option>
+<option>Punjab</option>
+<option>Azad Jammu and Kashmir,</option>
+<option>Sindh</option>
+<option>Gilgit-Baltistan</option>
